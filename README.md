@@ -48,9 +48,7 @@ Canon imageCLASS 2200 is the top-performing product.
 
 ▶️ Live Dashboard (Power BI Service)
 
-👉 Add your published Power BI link here
-https://app.powerbi.com/view?r=eyJrIjoiNWJiM2EzMzYtYzc3Zi00ODQxLWI0YjEtNGFiZWVlNTJiMjc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
+👉 View it here: [Retail Sales Dashboard]<iframe title="Retail_Sales_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWJiM2EzMzYtYzc3Zi00ODQxLWI0YjEtNGFiZWVlNTJiMjc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 📌 DAX Measures Used
 Total Sales = SUM('sample_superstore'[Sales])
 
