@@ -48,6 +48,7 @@ Canon imageCLASS 2200 is the top-performing product.
 
 ▶️ Live Dashboard (Power BI Service)
 
+👉 Add your published Power BI link here
 https://app.powerbi.com/view?r=eyJrIjoiNWJiM2EzMzYtYzc3Zi00ODQxLWI0YjEtNGFiZWVlNTJiMjc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 📌 DAX Measures Used
@@ -96,8 +97,9 @@ Review insights for decision-making
 
 👩‍💻 About the Author
 
-Aspiring Data Analyst with experience in Excel, Power BI, and ongoing training in SQL & Python (CodeBasics Bootcamp). Focused on building strong data visualization and storytelling skills.
+Aspiring Data Analyst currently learning Power BI, SQL, and Python.
+Focused on building strong data visualization and storytelling skills through real-world projects.
 
 ⭐ If you liked this project
 
-Feel free to ⭐ star this repository — it helps me grow as a data analyst!
+Please ⭐ star this repository — it motivates me to create more projects!
